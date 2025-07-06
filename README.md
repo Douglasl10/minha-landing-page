@@ -1,36 +1,69 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# 🚀 CouDev - Landing Page para Desenvolvimento Web
 
-## Getting Started
+Uma landing page moderna e responsiva para empresa de desenvolvimento web, criada com **Next.js 14**, **TypeScript** e **Tailwind CSS**.
 
-First, run the development server:
+![CouDev Landing Page](https://via.placeholder.com/800x400/000000/87CEEB?text=CouDev+Landing+Page)
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+## ✨ **Características**
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+- 🎨 **Design Moderno**: Interface elegante com cores preto e azul bebê
+- 📱 **Totalmente Responsivo**: Funciona perfeitamente em desktop, tablet e mobile
+- ⚡ **Performance Otimizada**: Construído com Next.js 14 e App Router
+- 🔧 **TypeScript**: Código tipado para maior segurança e produtividade
+- 🎯 **SEO Friendly**: Estrutura otimizada para mecanismos de busca
+- 📞 **Integração WhatsApp**: Formulário que envia dados diretamente para WhatsApp
+- 🌟 **Animações Suaves**: Transições e hover effects elegantes
+- 🔗 **Navegação Suave**: Scroll suave entre seções
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+## 🛠️ **Tecnologias Utilizadas**
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+- **Framework**: [Next.js 14](https://nextjs.org/)
+- **Linguagem**: [TypeScript](https://www.typescriptlang.org/)
+- **Estilização**: [Tailwind CSS](https://tailwindcss.com/)
+- **Componentes**: [shadcn/ui](https://ui.shadcn.com/)
+- **Ícones**: [Lucide React](https://lucide.dev/)
+- **Deployment**: [Vercel](https://vercel.com/)
 
-## Learn More
+## 📋 **Seções da Landing Page**
 
-To learn more about Next.js, take a look at the following resources:
+### 🏠 **Header**
+- Logo da empresa
+- Menu de navegação responsivo
+- Menu mobile com animação
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+### 🎯 **Hero Section**
+- Título impactante com call-to-action
+- Botões para ação (Solicitar Orçamento / Ver Templates)
+- Estatísticas da empresa
+- Imagem ilustrativa
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+### 💼 **Serviços**
+- Cards com os principais serviços oferecidos:
+  - Websites Personalizados
+  - Sistemas Web
+  - E-commerce
+- Ícones e descrições detalhadas
 
-## Deploy on Vercel
+### 🎨 **Templates**
+- Galeria de templates premium
+- Preços e categorias
+- Avaliações com estrelas
+- Botões de ação para cada template
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+### 👥 **Sobre**
+- História e diferenciais da empresa
+- Estatísticas de projetos
+- Equipe e experiência
+- Valores e missão
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+### 📞 **Contato**
+- Formulário completo de orçamento
+- Integração direta com WhatsApp
+- Validação de campos obrigatórios
+- Design responsivo
+
+### 🔗 **Footer**
+- Links organizados por categoria
+- Informações de contato
+- Redes sociais com hover effects
+- Copyright e informações legais
