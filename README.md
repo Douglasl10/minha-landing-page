@@ -2,7 +2,7 @@
 
 Uma landing page moderna e responsiva para empresa de desenvolvimento web, criada com **Next.js 14**, **TypeScript** e **Tailwind CSS**.
 
-![CouDev Landing Page](https://via.placeholder.com/800x400/000000/87CEEB?text=CouDev+Landing+Page)
+
 
 ## ✨ **Características**
 
