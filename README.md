@@ -67,3 +67,5 @@ Uma landing page moderna e responsiva para empresa de desenvolvimento web, criad
 - Informações de contato
 - Redes sociais com hover effects
 - Copyright e informações legais
+
+<img src="https://raw.githubusercontent.com/Douglasl10/minha-landing-page/refs/heads/master/src/assets/capa.png"/>
